@@ -13,3 +13,5 @@ def es_par(numero:int)->bool:
     return numero % 2 == 0
 
 print(f"2 es par: {es_par(2)}")
+
+
